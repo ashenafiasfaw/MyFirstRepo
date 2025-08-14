@@ -1,0 +1,8 @@
+Brief Introduction About Myself
+
+  My name is Ashenafi Asfaw Genemo, and I am a graduate in Computer Engineering with a strong passion for technology, problem-solving, and continuous learning.
+I have developed skills in various areas of computing, including programming, data analytics, and systems analysis.
+Over time, I have become particularly interested in Linux systems and version control tools, as they are essential for efficient software development and collaborative work.
+
+  In addition to my technical background, I am an aspiring Data Analyst, working on sharpening my abilities in data-driven decision-making, statistical analysis, and automation.
+I am always eager to explore new tools and technologies that improve productivity, efficiency, and collaboration. My goal is to keep building my expertise so I can contribute meaningfully to the tech industry while advancing my career.
