@@ -1,2 +1,3 @@
+What I have learned from this course 
 I have learned how to use Linux commands and version control systems like Git to manage files and track project changes efficiently.
 These skills have helped me understand the importance of organization, collaboration, and maintaining a clear history of updates in any project.
